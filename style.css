@@ -74,7 +74,7 @@ body {
     color: var(--medium-gray);
     background-color: var(--dark-blue);
 
-    transition: all ease-in-out 0.3s ;
+    transition: all ease-in-out 0.3s;
 }
 
 .botoes button:hover {
@@ -83,7 +83,7 @@ body {
     cursor: pointer;
 }
 
-.butoes button:focus {
+.botoes button:focus {
     color: var(--white);
     background-color: var(--light-gret);
 }
